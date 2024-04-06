@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Hamilton Vivas 😁
+## Bem-vindo(a) ao perfil do Hamilton Vivas 🙂
 
  <div>
    <a href="https://github.com/hamilton-vivas">
