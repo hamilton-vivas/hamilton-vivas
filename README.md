@@ -6,8 +6,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamilton-vivas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-##<div style="display: inline_block">
- ##  <div align="center">
  <table align="center">
   <tr>
 <td>  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
@@ -24,7 +22,6 @@
 <td>  <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></td>  
       </tr>
 </table>
-##</div>
  
 <br>
  
